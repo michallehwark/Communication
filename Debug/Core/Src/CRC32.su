@@ -1,0 +1,6 @@
+CRC32.cpp:15:10:uint32_t CRC32::getCRC32(uint8_t*, size_t)	24	static
+CRC32.cpp:24:6:void CRC32::setDivisor(uint32_t)	16	static
+CRC32.cpp:28:10:uint32_t CRC32::crc32(uint8_t*, size_t)	48	static
+CRC32.cpp:44:6:void CRC32::build_crc32_table()	40	static
+CRC32.cpp:61:10:uint32_t CRC32::crc32_fast(uint8_t*, size_t)	40	static
+CRC32.cpp:72:1:CRC32::CRC32(CRC32::crc_mode)	16	static
